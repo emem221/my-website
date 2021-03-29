@@ -408,7 +408,9 @@ section.home {
 
 @media (max-width: 650px){
     .texts{
-        font-size: 18px;
+        font-size: 25px;
+        font-style: italic;
+    font-weight: bold;
     }
     .home-content{
         width: 100%;
