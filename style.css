@@ -410,4 +410,7 @@ section.home {
     .texts{
         font-size: 18px;
     }
+    .home-content{
+        width: 100%;
+    }
 }
