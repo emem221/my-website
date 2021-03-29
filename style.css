@@ -406,7 +406,7 @@ section.home {
     }
 }
 
-@media (max-width: 768px){
+@media (max-width: 650px){
     .texts{
         font-size: 30px;
     }
