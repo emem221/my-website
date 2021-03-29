@@ -405,3 +405,9 @@ section.home {
         grid-template-columns: 1fr;
     }
 }
+
+@media (max-width: 768px){
+    .texts{
+        font-size: 30px;
+    }
+}
