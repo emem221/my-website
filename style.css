@@ -431,7 +431,8 @@ a.fontchange:hover {
 
 @media (max-width: 650px) {
     .home .home-content p{
-        font-size: 15px;
+        font-size: 25px;
+        width: 100%;
     }
     .cards {
         flex-direction: column;
@@ -443,6 +444,6 @@ a.fontchange:hover {
         -webkit-column-count: 1;
     }
     a.fontchange:hover {
-       text-decoration: underline;
+      font-size: 120%;
     }
 }
