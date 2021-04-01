@@ -439,4 +439,7 @@ a.fontchange:hover {
         -moz-column-count: 1;
         -webkit-column-count: 1;
     }
+    a.fontchange:hover {
+        font-size: 1%;
+    }
 }
